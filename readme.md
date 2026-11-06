@@ -1,7 +1,6 @@
 ================================================================
 Andrea 0.3 - Designed by Lucian E. Marin | http://lucianmarin.com/
 [Theme built for WordPress 2.5] 
-[Licensed under GPL]
 [June 3rd 2008]
 
 How to install
