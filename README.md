@@ -1,6 +1,6 @@
 # Andrea 0.3
 
-![screenshot](screenshot.png)
+![screenshot](screenshot.jpg)
 
 Minimalist, fixed-width two-column WordPress theme (`#00355f` deep blue palette) designed by Lucian E. Marin (`http://lucianmarin.com/`).
 
